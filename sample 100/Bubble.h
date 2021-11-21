@@ -5,5 +5,7 @@
 #include <stdio.h>
 
 #define MAX_MACHIN_CIRCLE 20000
+#define MAX_DELAY 36000
+#define MAX_CHAR_CIRCLE 255
 
 #endif
