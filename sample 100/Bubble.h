@@ -8,4 +8,6 @@
 #define MAX_DELAY 36000
 #define MAX_CHAR_CIRCLE 255
 
+typedef unsigned char u16;
+
 #endif
