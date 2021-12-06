@@ -6,7 +6,9 @@ int main(void) {
     // spark();
     // moveBubble();
     // alertAlarm();
-    screenOps();
+    // screenOps();
+    // machineTrigger();
+    stepMachine();
 
     return 0;
 }
